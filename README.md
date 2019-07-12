@@ -1,5 +1,5 @@
 # ZipkinServer
-This is the ZipkinServer, downloaded directly from the Zipkin site 
+This is the ZipkinServer, downloaded directly from the Zipkin site https://zipkin.io/pages/quickstart#java
 
 Once we downloaded the Zipkin jar, we can run it by executing the below commands
 
